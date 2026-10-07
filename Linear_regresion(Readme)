@@ -1,0 +1,5 @@
+Linear Regression is a supervised machine learning algorithm used to predict a continuous numerical value by finding the best 
+linear relationship between input features and the target variable.
+
+Linear Regression is a supervised learning algorithm that predicts a continuous numerical target by modeling
+a linear relationship between one or more input features and the target variable.
